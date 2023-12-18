@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Noltim&icon=7&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LucasCrespo75&icon=7&color=3)](https://visitcount.itsvg.in)
 
 
 <!--
