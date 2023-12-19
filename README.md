@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 # 💫 About Me:
 💻I currently work as a freelancer, providing services to companies and making innovative software for the job market 
